@@ -9,7 +9,7 @@ The results of this process are exchangeable, meaning the order in which the cus
 - This property greatly simplifies a number of problems in population genetics, linguistic analysis, and image recognition.
 # The Derived Formula
 - The probablity of Customer n_th goes to Table m:
-[1666795140757(1)](https://user-images.githubusercontent.com/116732375/198056348-7b3f993d-195c-48c4-ba71-b1d1dfb27552.png)
+![1666795140757(1)](https://user-images.githubusercontent.com/116732375/198056348-7b3f993d-195c-48c4-ba71-b1d1dfb27552.png)
 - The probablity of Customer n_th goes to a new Table:
-[1666795140757(1)]![1666795338200](https://user-images.githubusercontent.com/116732375/198057179-29401b56-4829-44f1-a2a0-26a8a88dcba1.png)
+![1666795338200](https://user-images.githubusercontent.com/116732375/198057179-29401b56-4829-44f1-a2a0-26a8a88dcba1.png)
 
